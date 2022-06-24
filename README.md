@@ -24,7 +24,7 @@ import 'package:hideable_bottom_bar/hideable_bottom_bar.dart';
 ## Usage
 Create HideableBottomBar place it in Stack and change bottomPosition to animate widget.
 
-![Bottom bar montion animation](https://media3.giphy.com/media/9nLRYf3XsukcOJgz00/giphy.gif?cid=5e214886a233f4c10f539f9aee773019341fd2394c4386e1&rid=giphy.gif&ct=g)
+![Bottom bar animation](https://media3.giphy.com/media/9nLRYf3XsukcOJgz00/giphy.gif?cid=5e214886a233f4c10f539f9aee773019341fd2394c4386e1&rid=giphy.gif&ct=g)
 
 ```dart
 HideableBottomBar(
