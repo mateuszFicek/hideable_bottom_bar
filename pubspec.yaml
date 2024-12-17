@@ -1,10 +1,10 @@
 name: hideable_bottom_bar
-description: Hideable bottom bar plugin.
-version: 0.0.1
+description: Hideable Bottom Bar is a Flutter package that provides a customizable bottom bar widget, which can seamlessly hide below the screen for a sleek UI experience.
+version: 1.0.0
 homepage: https://github.com/mateuszFicek/hideable_bottom_bar
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=2.12.0 <4.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
@@ -14,6 +14,6 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^1.0.0
+  flutter_lints: ^5.0.0
 
 flutter:
