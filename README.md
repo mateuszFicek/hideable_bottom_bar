@@ -30,7 +30,6 @@ Create HideableBottomBar place it in Stack and change bottomPosition to animate 
 HideableBottomBar(
     selectedIndex: selectedIndex,
     bottomPosition: bottomPosition,
-    horizontalPadding: 24,
     children: List.generate(
         5,
         (index) => HideableBottomNavigationItem(

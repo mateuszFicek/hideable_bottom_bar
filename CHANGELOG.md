@@ -1,3 +1,6 @@
+## 1.0.1
+Readme update.
+
 ## 1.0.0
 ### New Features:
 - Added a `showTooltips` property to enable tooltips on navigation items.
